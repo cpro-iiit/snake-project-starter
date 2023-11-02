@@ -5,8 +5,8 @@
      git clone <your-repo-url>
 ```
      
-2. Attempt the tasks mentioned in [https://cs61c.org/fa23/projects/proj1/#setup](https://cs61c.org/fa23/projects/proj1/#setup) and make changes to only `src/snake.c`, `src/state.c`, and `src/custom_tests.c`.
-
+2. Attempt the tasks mentioned in [https://cs61c.org/fa23/projects/proj1/#conceptual-overview](https://cs61c.org/fa23/projects/proj1/#conceptual-overview) and make changes to only `src/snake.c`, `src/state.c`, and `src/custom_tests.c`.
+   
 4. Run following commands locally
 ```sh
    make run-unit-tests  
