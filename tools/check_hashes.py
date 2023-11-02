@@ -6,13 +6,19 @@ import sys
 proj_dir_path = Path(__file__).parent.parent
 
 starter_file_hashes = {
-    "Makefile": "a8acfd1391a16d08115e322bc9d6bdcf",
+    "Makefile": "406b35468895ce83ed29a3adf146d4e3",
     "src/asserts.c": "678b72078a280d6e86b7be1c09426829",
     "src/asserts.h": "8df1d1324987351cd54a264cc0fc4781",
     "src/snake_utils.c": "141228e5a6828da7b34b2a53797bab9d",
     "src/snake_utils.h": "afd91a278c87e5df3f15dc2baffb3abf",
     "src/state.h": "ff895ab6f66f4571a557b586c3e5a2a1",
-    "src/unit_tests.c": "dc92d8ecec4833e307f843ff437261b9",
+    "src/unit_tests.h": "d242274e248ee6330698881fc858cb18",
+    "src/unit_tests.c": "3e85f3b968296cc020b54fb47ffd252a",
+    "src/unit_tests_1.c": "a2bb2dd0b59d0635e597bc72cb228e47",
+    "src/unit_tests_3.c": "aa7f02025219c636cc7b0536c3ac0e16",
+    "src/unit_tests_4.c": "72352c510e931c9690995678a4e52840",
+    "src/unit_tests_5.c": "74f2aaf58c85c06b01c3e7e019c3eae9",
+    "src/unit_tests_6.c": "6a6f9f962f25950d54cf619423e7a2c7",
     "tests/01-simple-in.snk": "9300d4767e059a3056a9bf4bd5455b20",
     "tests/01-simple-ref.snk": "7d1aa30890d6d7f38b4c8fe864680532",
     "tests/02-direction-in.snk": "6d3d008aae31e41adf17c715564a5c5f",
@@ -66,6 +72,7 @@ def check_hash(rel_path_str):
         contents = f.read()
     contents = contents.replace(b"\r\n", b"\n")
     hashed_val = hashlib.md5(contents).hexdigest()
+    # print(rel_path_str, hashed_val)
     if hashed_val != starter_file_hashes[rel_path_str]:
         return (False, f"{rel_path_str} was changed from starter")
     return (True, f"{rel_path_str} matches starter file")

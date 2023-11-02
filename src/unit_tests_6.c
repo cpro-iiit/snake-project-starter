@@ -23,27 +23,7 @@ int main(int argc, char* argv[]) {
       exit(1);
     }
   } else {
-    if (!test_and_print("create_default_state (Task 1)", test_create_default_state)) {
-      exit(1);
-    }
-    if (!test_and_print("print_board (Task 3)", test_print_board)) {
-      exit(1);
-    }
-    if (!test_and_print("next_square (Task 4)", test_next_square)) {
-      exit(1);
-    }
-    if (!test_and_print("update_head (Task 4)", test_update_head)) {
-      exit(1);
-    }
-    if (!test_and_print("update_tail (Task 4)", test_update_tail)) {
-      exit(1);
-    }
-    if (!test_and_print("update_state (Task 4)", test_update_state)) {
-      exit(1);
-    }
-    if (!test_and_print("load_board (Task 5)", test_load_board)) {
-      exit(1);
-    }
+   
     if (!test_and_print("find_head (Task 6)", test_find_head)) {
       exit(1);
     }
