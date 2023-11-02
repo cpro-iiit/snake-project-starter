@@ -1,6 +1,6 @@
 # Snake Game
 
-1. Clone the repo using the repo url obtained will accept the assignment.
+1. Clone the repo using the repo URL obtained while accepting the assignment.
      git clone <your-repo-url>
      
 2. Attempt the tasks mentioned in [https://cs61c.org/fa23/projects/proj1/#setup](https://cs61c.org/fa23/projects/proj1/#setup) and make changes to only `src/snake.c`, `src/state.c`, and `src/custom_tests.c`.
