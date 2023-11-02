@@ -1,6 +1,6 @@
 # Snake Game
 
-1. Clone the repo to your local machine using the repo URL obtained while accepting the assignment.
+1. Clone the repo to your local machine using the repo URL obtained while accepting the assignment.  
 ```sh
      git clone <your-repo-url>
 ```
