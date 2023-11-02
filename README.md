@@ -9,7 +9,8 @@
    
 4. Run the following commands locally
 ```sh
-   make run-unit-tests  
+   make run-unit-tests 
+   make run-unit-tests-<1 to 6 except 2>  
    make run-integration-tests
 ```
    to see how your code is doing.
