@@ -12,7 +12,7 @@ starter_file_hashes = {
     "src/snake_utils.c": "141228e5a6828da7b34b2a53797bab9d",
     "src/snake_utils.h": "afd91a278c87e5df3f15dc2baffb3abf",
     "src/state.h": "ff895ab6f66f4571a557b586c3e5a2a1",
-    "src/unit_tests.c": "cea858aec10a22dfcad3f2fa4f546195",
+    "src/unit_tests.c": "dc92d8ecec4833e307f843ff437261b9",
     "tests/01-simple-in.snk": "9300d4767e059a3056a9bf4bd5455b20",
     "tests/01-simple-ref.snk": "7d1aa30890d6d7f38b4c8fe864680532",
     "tests/02-direction-in.snk": "6d3d008aae31e41adf17c715564a5c5f",
