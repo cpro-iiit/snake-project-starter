@@ -1,18 +1,20 @@
 # Snake Game
 
-1. Clone the repo using the repo URL obtained while accepting the assignment.
+1. Clone the repo to your local machine using the repo URL obtained while accepting the assignment.
+```sh
      git clone <your-repo-url>
+```
      
 2. Attempt the tasks mentioned in [https://cs61c.org/fa23/projects/proj1/#setup](https://cs61c.org/fa23/projects/proj1/#setup) and make changes to only `src/snake.c`, `src/state.c`, and `src/custom_tests.c`.
 
-4. Run
+4. Run following commands locally
 ```sh
    make run-unit-tests  
    make run-integration-tests
 ```
    to see how your code is doing.
 
-5. commit your changes by running
+5. commit your changes to the github repo by running
   ```sh
    git add -A
    git commit -m "<commit message>"
