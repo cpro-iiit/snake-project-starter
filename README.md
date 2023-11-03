@@ -44,6 +44,6 @@ not be required to change it unless you are doing something very advanced. The f
 
 # Misc
 
-Following are some generally useful links for programmers 
+Following are some generally useful links for programmers: 
 - [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
 - [Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
