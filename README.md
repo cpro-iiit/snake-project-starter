@@ -9,7 +9,7 @@ In this project, you'll get some practice with C coding by creating a playable s
      
 2. Attempt the tasks mentioned in [https://cs61c.org/fa23/projects/proj1/#conceptual-overview](https://cs61c.org/fa23/projects/proj1/#conceptual-overview) and make changes to only `src/snake.c`, `src/state.c`, and `src/custom_tests.c`.
    
-4. Run the following commands locally
+3. Run the following commands locally
 ```sh
    make run-unit-tests 
    make run-unit-tests-<1 to 6 except 2>  
@@ -17,14 +17,14 @@ In this project, you'll get some practice with C coding by creating a playable s
 ```
    to see how your code is doing.
 
-5. commit your changes to the GitHub repo by running
+4. commit your changes to the GitHub repo by running
   ```sh
    git add -A
    git commit -m "<commit message>"
    git push origin main
   ```
     
-6. For seeing the logs/cmd line output of auto-grading:   
+5. For seeing the logs/cmd line output of auto-grading:   
    Go to your repo URL> open the actions tab > click latest workflow run > autograding
 
 
