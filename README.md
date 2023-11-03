@@ -25,7 +25,7 @@ In this project, you'll get some practice with C coding by creating a playable s
   ```
     
 5. For seeing the logs/cmd line output of auto-grading:   
-   Go to your repo URL> open the actions tab > click latest workflow run > autograding
+   Go to your repo URL > open the actions tab > click latest workflow run > autograding
 
 
 # Using Git
