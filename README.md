@@ -24,3 +24,23 @@
     
 6. For seeing the logs/cmd line output of auto-grading:   
    Go to your repo URL> open the actions tab > click latest workflow run > autograding
+
+
+# Using Git
+We just need very basic knowledge of git. You may go over the links bellow.
+
+- [Git Videos](https://git-scm.com/videos>
+- [Git Book](https://git-scm.com/book/en/v2/): You can go over chapters 1,2,3 (mostly we will only need 2).
+- [Github for beginners in 2023](https://www.youtube.com/watch?v=vwj89i2FmG0)
+
+# Using Make
+You will not be needing much knowledge of make for the project, since the makefile is already given to you. You will
+not be required to change it unless you are doing something very advanced. The following reference is provided to help you understand how it works. Knowing it would be helpful in the future.
+
+- [Makefiletutorial](https://makefiletutorial.com/)
+- [Make files in GPI Course at CMU](https://www.cs.cmu.edu/~15131/f17/topics/makefiles/)
+
+# Misc
+Following are some generally useful links for programmers 
+- [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
+- [Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
