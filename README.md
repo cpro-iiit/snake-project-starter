@@ -32,7 +32,7 @@ We will have an intermediate evaluation on 10th November and a final evaluation 
 
 ## Honor Code
 You shall not collaborate in this project evaluation. Any instance of copying or in case you are unable to explain your code shall result in getting -5% marks (ie -5% marks will be added to your course total). If you havent completed
-the intermediate evals on 10th Nov, it shall result in -2% marks.
+the intermediate evals on 10th Nov, it shall result in -1% marks.
 
 ## Using Git
 
@@ -44,7 +44,7 @@ We just need very basic knowledge of git. You may go over the links below.
 
 ## Using Make
 
-You will not be needing much knowledge of make for the project, since the makefile is already given to you. You will
+You will not need much knowledge of make for the project, since the makefile is already given to you. You will
 not be required to change it unless you are doing something very advanced. The following reference is provided to help you understand how it works. Knowing it would be helpful in the future.
 
 - [Makefiletutorial](https://makefiletutorial.com/)
