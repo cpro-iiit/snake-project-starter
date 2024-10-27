@@ -2,9 +2,8 @@
 
 In this project, you'll get some practice with C coding by creating a playable snake game. If you're not familiar with snake, [you can try out a demo at this link](https://www.xarg.org/project/html5-snake/). Please follow directions bellow:
 
-1. Log in to GitHub in VS Code by clicking the user icon in the bottom left corner (above gearbox). In the VSCode terminal, clone the repo to your local machine using the repo URL obtained while accepting the assignment.  
-```sh
-     git clone <your-repo-url>
+1. Clone this repo
+     git clone https://github.com/cpro-iiit/snake-project-starter
 ```
      
 2. Attempt the tasks mentioned in [https://cs61c.org/fa23/projects/proj1/#conceptual-overview](https://cs61c.org/fa23/projects/proj1/#conceptual-overview) and make changes to only `src/snake.c`, `src/state.c`, and `src/custom_tests.c`.
