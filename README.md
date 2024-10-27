@@ -3,6 +3,7 @@
 In this project, you'll get some practice with C coding by creating a playable snake game. If you're not familiar with snake, [you can try out a demo at this link](https://www.xarg.org/project/html5-snake/). Please follow directions bellow:
 
 1. Clone this repo
+```sh
      git clone https://github.com/cpro-iiit/snake-project-starter
 ```
      
