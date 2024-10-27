@@ -26,13 +26,6 @@ In this project, you'll get some practice with C coding by creating a playable s
 5. For seeing the logs/cmd line output of auto-grading:   
    Go to your repo URL > open the actions tab > click latest workflow run > autograding
 
-## Evaluation
-
-We will have an intermediate evaluation on 10th November and a final evaluation on or after Nov 30th. We will announce the details of this by Monday (but roughly you will need to do finish upto Task 4). You should do regular commits to the repositories. Each task has to be part of separate commits. We make add a couple of additional tasks later.
-
-## Honor Code
-You shall not collaborate in this project evaluation. Any instance of copying or in case you are unable to explain your code shall result in getting -5% marks (ie -5% marks will be added to your course total). If you havent completed
-the intermediate evals on 10th Nov, it shall result in -1% marks.
 
 ## Using Git
 
