@@ -7,7 +7,7 @@ In this project, you'll get some practice with C coding by creating a playable s
      git clone https://github.com/cpro-iiit/snake-project-starter
 ```
      
-2. Attempt the tasks mentioned in [https://cs61c.org/fa24/projects/proj1/#conceptual-overview] and make changes to only `src/snake.c`, `src/state.c`, and `src/custom_tests.c`.
+2. Attempt the tasks mentioned in https://cs61c.org/fa24/projects/proj1/#conceptual-overview and make changes to only `src/snake.c`, `src/state.c`, and `src/custom_tests.c`.
    
 3. Run the following commands locally to see how your code is doing.
 ```sh
