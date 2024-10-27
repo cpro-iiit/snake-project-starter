@@ -16,17 +16,6 @@ In this project, you'll get some practice with C coding by creating a playable s
    make run-integration-tests
 ```
 
-4. commit your changes to the GitHub repo by running
-  ```sh
-   git add -A
-   git commit -m "<commit message>"
-   git push origin main
-  ```
-    
-5. For seeing the logs/cmd line output of auto-grading:   
-   Go to your repo URL > open the actions tab > click latest workflow run > autograding
-
-
 ## Using Git
 
 We just need very basic knowledge of git. You may go over the links below.
